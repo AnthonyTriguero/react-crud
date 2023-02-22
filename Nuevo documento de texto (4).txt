@@ -1,0 +1,3 @@
+npm install -g create-react-app
+create-react-app
+npm i react-router-dom axios bootstrap sweetalert2 sweetalert2-react-content @fortawesome/fontawesome-free
